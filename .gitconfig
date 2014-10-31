@@ -1,0 +1,7 @@
+[user]
+	name = Jesse Keating
+	email = jkeating@j2solutions.net
+[color]
+	ui = true
+[push]
+	default = tracking

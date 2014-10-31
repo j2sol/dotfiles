@@ -5,3 +5,5 @@
 	ui = true
 [push]
 	default = tracking
+[core]
+	excludesfile = ~/.gitignore_global

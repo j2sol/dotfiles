@@ -1,7 +1,7 @@
 
 ZSH=~/.oh-my-zsh
 
-ZSH_THEME=robbyrussell
+ZSH_THEME=sunaku
 COMPLETION_WAITING_DOTS=true
 
 plugins=git

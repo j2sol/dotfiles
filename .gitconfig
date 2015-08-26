@@ -7,3 +7,4 @@
 	default = tracking
 [core]
 	excludesfile = ~/.gitignore_global
+    pager = cat

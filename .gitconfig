@@ -6,5 +6,5 @@
 [push]
 	default = tracking
 [core]
-	excludesfile = ~/.gitignore_global
+	excludesfile = less -F -X
     pager = cat
